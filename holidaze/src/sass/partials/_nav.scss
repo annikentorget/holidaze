@@ -1,0 +1,30 @@
+.navbar {
+    padding-right: 0.5rem;
+    padding-left: 0.5rem;
+}
+
+.navbar {
+    background-color: #414141;
+}
+
+.navbar-toggler {
+    border: solid 1px #414141 !important;
+}
+
+.logo {
+    width: 140px;
+}
+
+.nav__login {
+    color: rgba(255, 255, 255, 0.55);
+    text-decoration: none;
+    padding-top: 8px;
+    padding-left: 5px;
+}
+
+.nav__login {
+    color: rgba(255, 255, 255, 0.55);
+    &:hover {
+        color: rgba(255, 255, 255, 0.75);
+    }
+}

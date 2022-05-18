@@ -1,0 +1,16 @@
+.banner {
+    background-image: url("../../images/banner.jpg");
+    background-position: center;
+    background-size: cover;
+    
+
+    height: 80vh;
+
+    &__heading {
+        text-align: center;
+        color: #414141;
+        font-size: 46px;
+        padding-top: 150px;
+    }
+}
+
